@@ -10,6 +10,10 @@ func main() {
 	//slices()
 	//maps()
 	//range1()
-	functions()
+	//functions()
+	//pointers()
+	//structs()
+	//methods()
+	interfaces()
 
 }
