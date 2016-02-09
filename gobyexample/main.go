@@ -7,6 +7,8 @@ func main() {
 	fmt.Println("Go by example...")
 
 	//helloworld()
-	slices()
+	//slices()
+	//maps()
+	range1()
 
 }
