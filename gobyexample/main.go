@@ -17,6 +17,9 @@ func main() {
 	//interfaces()
 	//errors1()
 	//goroutines1()
-	channels1()
-
+	//channels1()
+	//select1()
+	//timeouts1()
+	//nonblock1()
+	closing1()
 }
