@@ -9,6 +9,7 @@ func main() {
 	//helloworld()
 	//slices()
 	//maps()
-	range1()
+	//range1()
+	functions()
 
 }
