@@ -14,6 +14,9 @@ func main() {
 	//pointers()
 	//structs()
 	//methods()
-	interfaces()
+	//interfaces()
+	//errors1()
+	//goroutines1()
+	channels1()
 
 }
