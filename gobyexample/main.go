@@ -21,5 +21,8 @@ func main() {
 	//select1()
 	//timeouts1()
 	//nonblock1()
-	closing1()
+	//closing1()
+	//timers1()
+	//tickers1()
+	//worker_pools1()
 }
