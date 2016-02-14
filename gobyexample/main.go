@@ -25,4 +25,8 @@ func main() {
 	//timers1()
 	//tickers1()
 	//worker_pools1()
+	//rate_limiting1()
+	//atomic_counters1()
+	//mutexes1()
+	stateful1()
 }
