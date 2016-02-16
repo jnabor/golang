@@ -28,5 +28,6 @@ func main() {
 	//rate_limiting1()
 	//atomic_counters1()
 	//mutexes1()
-	stateful1()
+	//stateful1()
+	//sorting1()
 }
