@@ -30,4 +30,9 @@ func main() {
 	//mutexes1()
 	//stateful1()
 	//sorting1()
+	//panic1()
+	//defer1()
+	//collection_f()
+	//string_f()
+	//string_fmt()
 }
