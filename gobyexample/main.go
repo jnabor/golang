@@ -39,5 +39,8 @@ func main() {
 	//json1()
 	//time1()
 	//epoch1()
-	time_fmt1()
+	//time_fmt1()
+	//rand1()
+	//num_par1()
+
 }
