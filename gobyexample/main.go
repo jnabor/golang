@@ -35,4 +35,9 @@ func main() {
 	//collection_f()
 	//string_f()
 	//string_fmt()
+	//regex1()
+	//json1()
+	//time1()
+	//epoch1()
+	time_fmt1()
 }
